@@ -33,8 +33,6 @@ counter += matrix[i][j];
 } 
 return counter;
 }
-
-
 module.exports = {
   getMatrixElementsSum
 };
